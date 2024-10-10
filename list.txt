@@ -1,5 +1,9 @@
-this is a list off things I like :
-+UCLA
-+Statistics
-+Python
+This is a list off things I like :
 
++ UCLA
++ Statistics
++ Python
+
+Some things I don't like:
+
++ Apple
